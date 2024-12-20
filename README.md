@@ -29,3 +29,26 @@ This repository contains the code for a University Management System built using
 - MySQL 8.0
 - Maven 3.x
 - IDE (Eclipse/IntelliJ IDEA)
+
+- ```   ├── src/
+   │   ├── main/
+   │   │   ├── java/
+   │   │   │   ├── com
+   │   │   │   │   ├── User/
+   │   │   │   │      |___ model/
+   │   │   │   │      |___ dao/
+   │   │   │   |── controller
+   |   |   |   |    |──UserServlet
+   │   │   ├─── resources/
+   │   │   ├─── webapp/
+   │   │   │   ├── WEB-INF/
+   │   │   │   │ └── web.xml
+   │   │   │   ├── index.jsp
+   │   │   │   ├── Login.jsp
+   │   │   │   ├── userprofile.jsp
+   │   │   │   ├── Register.jsp
+   │   │   │   ├── style.css
+   │   │   │   └── script.js
+   ├── pom.xml
+   |── schema
+   └── README.md
