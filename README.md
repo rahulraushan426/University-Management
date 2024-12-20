@@ -1,6 +1,6 @@
-# E-Commerce Website
+# University Management System
 ## This Project is under development.
-This repository hosts the code for a Java e-commerce Website. This application allows users to browse products, manage their carts, and securely place orders online. The project follows a structured MVC architecture, ensuring scalability and maintainability. Built using Java Servlets, JSP, and MySQL, it provides a seamless shopping experience.
+This repository contains the code for a University Management System built using Java and MySQL. The application aims to streamline the management of students, courses, faculty, and administrative tasks. The project follows an MVC architecture, ensuring easy scalability and maintainability. Built using Java Servlets, JSP, and MySQL, the system provides a robust solution for managing various aspects of university operations.
 ## Features
 - Register new account
 - Login/Logout
